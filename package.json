@@ -1,0 +1,17 @@
+{
+  "name": "googlemapsscraperivon",
+  "version": "1.0.0",
+  "description": "Scrapes local business in a specified Region or City from Gos using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "Shihab Ali",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.10.1"
+  }
+}
